@@ -1,0 +1,73 @@
+name: BMC Stock Holdings
+description: |-
+  BMC Stock Holdings, Inc. was one of the largest professional building materials
+  distributors in the United States, serving homebuilders, remodelers, and
+  contractors with lumber, structural components, millwork, doors, windows,
+  and installed services. The company was formed in December 2015 through the
+  merger of Stock Building Supply and Building Materials Holding Corporation
+  (BMHC) and traded on NASDAQ under the ticker BMCH, headquartered in Raleigh,
+  North Carolina.
+
+  On January 1, 2021, BMC Stock Holdings completed an all-stock "merger of
+  equals" with Builders FirstSource (NYSE: BLDR), creating the nation's largest
+  supplier of structural building products to the professional homebuilding
+  market. The combined company retained the Builders FirstSource name, BLDR
+  ticker, and Irving, Texas headquarters. The merger had an enterprise value of
+  approximately $2.5 billion and produced a company with more than $11 billion
+  in annual sales, approximately 26,000 employees, and roughly 550 distribution
+  and manufacturing locations across more than 40 U.S. states.
+
+  BMC Stock Holdings no longer exists as an independent entity. The legacy
+  buildwithbmc.com domain redirects to bldr.com, and BMC product lines and
+  branches have been absorbed into the Builders FirstSource network. This
+  profile is retained as a historical Fortune 1000 record (BMC ranked #677
+  prior to the merger) and as a redirect to the successor profile at
+  api-evangelist/builders-firstsource.
+
+  BMC operated as a commodity-and-services distributor and did not publish
+  public developer APIs, OpenAPI specifications, SDKs, or a developer portal.
+  No API surface is documented for this provider.
+image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-network/bmc-stock-holdings.png
+url: https://github.com/api-evangelist/bmc-stock-holdings
+created: 2015-12-01
+modified: 2021-01-01
+specificationVersion: "0.16"
+tags:
+  - Building Materials
+  - Distribution
+  - Construction
+  - Lumber
+  - Homebuilding
+  - Defunct
+  - Merger And Acquisition
+  - Fortune 1000
+apis: []
+common:
+  - type: Homepage
+    url: https://www.bldr.com
+  - type: LegacyHomepage
+    url: https://www.buildwithbmc.com
+  - type: SuccessorProfile
+    url: https://github.com/api-evangelist/builders-firstsource
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Builders_FirstSource
+maintainers:
+  - FN: Kin Lane
+    url: https://apievangelist.com
+    email: info@apievangelist.com
+x-status: defunct
+x-status-reason: Merged into Builders FirstSource (NYSE BLDR) effective 2021-01-01
+x-former-ticker: BMCH
+x-successor:
+  name: Builders FirstSource
+  ticker: BLDR
+  exchange: NYSE
+  repo: builders-firstsource
+  merger-close: 2021-01-01
+  merger-enterprise-value-usd: 2500000000
+  combined-annual-revenue-usd: 11000000000
+  combined-employees: 26000
+  combined-locations: 550
+  combined-states: 40
+x-former-headquarters: Raleigh, North Carolina, USA
+x-former-fortune-rank: 677
