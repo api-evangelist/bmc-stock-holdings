@@ -43,7 +43,7 @@ tags:
   - Fortune 1000
 apis: []
 common:
-  - type: Homepage
+  - type: Website
     url: https://www.bldr.com
   - type: LegacyHomepage
     url: https://www.buildwithbmc.com
