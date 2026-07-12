@@ -43,6 +43,8 @@ tags:
   - Fortune 1000
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/bmc-stock-holdings-domain-security.yml
   - type: Website
     url: https://www.bldr.com
   - type: LegacyHomepage
