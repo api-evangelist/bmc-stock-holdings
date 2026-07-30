@@ -27,6 +27,17 @@ description: |-
   BMC operated as a commodity-and-services distributor and did not publish
   public developer APIs, OpenAPI specifications, SDKs, or a developer portal.
   No API surface is documented for this provider.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-evangelist-network/bmc-stock-holdings.png
 url: https://github.com/api-evangelist/bmc-stock-holdings
 created: 2015-12-01
