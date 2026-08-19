@@ -42,7 +42,7 @@ image: https://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/api-eva
 url: https://github.com/api-evangelist/bmc-stock-holdings
 created: 2015-12-01
 modified: 2021-01-01
-specificationVersion: "0.16"
+specificationVersion: '0.23'
 tags:
   - Building Materials
   - Distribution
