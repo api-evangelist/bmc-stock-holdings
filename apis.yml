@@ -27,6 +27,17 @@ description: |-
   BMC operated as a commodity-and-services distributor and did not publish
   public developer APIs, OpenAPI specifications, SDKs, or a developer portal.
   No API surface is documented for this provider.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
