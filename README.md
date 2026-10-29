@@ -64,56 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-API Evangelist profile for **BMC Stock Holdings, Inc.** — a former U.S.
-professional building-materials distributor.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-> **Status: defunct.** BMC Stock Holdings completed an all-stock merger of
-> equals with **Builders FirstSource (NYSE: BLDR)** on **January 1, 2021**.
-> The combined company retained the Builders FirstSource name and ticker.
-> BMC's former website, `buildwithbmc.com`, now redirects to `bldr.com`.
+BMC Stock Holdings, Inc. was one of the largest professional building materials distributors in the United States, serving homebuilders, remodelers, and contractors with lumber, structural components, millwork, doors, windows, and installed services. The company was formed in December 2015 through the merger of Stock Building Supply and Building Materials Holding Corporation (BMHC) and traded on NASDAQ under the ticker BMCH, headquartered in Raleigh, North Carolina. On January 1, 2021, BMC Stock Holdings completed an all-stock "merger of equals" with Builders FirstSource (NYSE: BLDR), creating the nation's largest supplier of structural building products to the professional homebuilding market. The combined company retained the Builders FirstSource name, BLDR ticker, and Irving, Texas headquarters. The merger had an enterprise value of approximately $2.5 billion and produced a company with more than $11 billion in annual sales, approximately 26,000 employees, and roughly 550 distribution and manufacturing locations across more than 40 U.S. states. BMC Stock Holdings no longer exists as an independent entity. The legacy buildwithbmc.com domain redirects to bldr.com, and BMC product lines and branches have been absorbed into the Builders FirstSource network. This profile is retained as a historical Fortune 1000 record (BMC ranked #677 prior to the merger) and as a redirect to the successor profile at api-evangelist/builders-firstsource. BMC operated as a commodity-and-services distributor and did not publish public developer APIs, OpenAPI specifications, SDKs, or a developer portal. No API surface is documented for this provider.
 
-This repository is preserved as a historical Fortune 1000 record (BMC ranked
-**#677** at the time of the merger) and as a pointer to its successor profile.
+**Areas:** Building Materials · Distribution · Construction · Lumber · Homebuilding · Defunct · Merger And Acquisition · Fortune 1000
 
-## Successor
+## BMC Stock Holdings on APIs.io (historical record)
 
-- **Name:** Builders FirstSource
-- **Ticker:** NYSE: BLDR
-- **Headquarters:** Irving, Texas
-- **Successor profile:** https://github.com/api-evangelist/builders-firstsource
-- **Homepage:** https://www.bldr.com
+Everything profiled for BMC Stock Holdings is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/bmc-stock-holdings/](https://apis.io/providers/bmc-stock-holdings/)** — or go straight to one of the APIs or properties below.
 
-## Quick history
+### Published properties
 
-| Year | Event |
-|---|---|
-| 2015 | BMC Stock Holdings formed via merger of **Stock Building Supply** and **Building Materials Holding Corporation (BMHC)**; listed on NASDAQ as **BMCH**. |
-| 2015–2020 | Operated as one of the largest U.S. distributors of lumber, structural components, millwork, windows, doors, and installed services to professional homebuilders. |
-| **Jan 1, 2021** | All-stock merger of equals with **Builders FirstSource** closes. Enterprise value ~$2.5B; combined company has >$11B in annual sales, ~26,000 employees, and ~550 locations across >40 U.S. states. BMC delisted; legacy domain redirects to bldr.com. |
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-**None.** BMC Stock Holdings operated as a commodity-and-services distributor
-and did not publish a public developer API, OpenAPI specification, SDK, or
-developer portal during its independent existence. Any modern digital surface
-for BMC's former customers (e.g. the **myBLDR** professional portal) is
-maintained by the successor entity and is documented under
-[`builders-firstsource`](https://github.com/api-evangelist/builders-firstsource).
+Authentication, trust centre, and vulnerability disclosure.
 
-## Repository contents
+- [Bmc Stock Holdings Domain Security](https://apis.io/security/bmc-stock-holdings/bmc-stock-holdings-domain-security/)
 
-Only the index files are present, since there is no API surface to document:
+## Where to find this API
 
-- `apis.yml` — APIs.json 0.16 index marking the provider as defunct and
-  pointing to the Builders FirstSource successor.
-- `README.md` — this file.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-No `openapi/`, `asyncapi/`, `capabilities/`, `rules/`, `schemas/`, `examples/`,
-`plans/`, `rate-limits/`, or `finops/` artifacts have been generated, in
-accordance with the API Evangelist run-pipeline rule that empty/placeholder
-specs must not be committed.
+- [Website](https://www.bldr.com)
 
-## Sources
+## API Evangelist rating
 
-- Wikipedia — Builders FirstSource (merger details verified via WebFetch).
-- Builders FirstSource corporate site, https://www.bldr.com (current scale).
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BMC Stock Holdings: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/bmc-stock-holdings/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
